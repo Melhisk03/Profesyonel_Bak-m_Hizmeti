@@ -31,7 +31,7 @@ Sağlık ve operasyon süreçleri çeşitli sorgulara imkan tanır. Proje ile bi
 Kurulum
 
 profesyonel_bakım_hizmeti dosyasını SQL Server Management Studio uygulamasında açın.
-Script ProfesyonelBakımHizmeti isimli veritabanına bağlanacak, tablolar oluşturulacak ve 120 adres 99 hasta ile 23 hemşirenin verisini, sisteme otomatik ekleyecektir.
+Script ProfesyonelBakımHizmeti isimli veritabanına bağlanacak, tablolar oluşturulacak ve 120 adres 99 hasta ile 23 hemşirenin verisini, sisteme eklenecek.
 Scriptin en altındaki örnek SELECT sorgularını seçip test edebilirsiniz
 
 
